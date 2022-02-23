@@ -1,5 +1,5 @@
 # Sandip Ghosh
 
-## btech Kolkata
+## Btech, West Bengal, Kolkata
 
-## West Bengal, Kolakata
+## Java, Javascript, Html, CSS, Bootstarp
